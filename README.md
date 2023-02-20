@@ -1,1 +1,1 @@
-# ex
+# the exercise
